@@ -1,0 +1,11 @@
+Rol
+CRUD işlemleri(kort , kullanıcı)
+Kortlar hakkında bilgilerin edinileceği sayfa (ne zaman boş vs)
+Gelir tablosu
+
+
+
+Kort detay
+Kort kiralama
+Ödeme
+Randevu Uzatma(Yenileme)
